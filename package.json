@@ -1,0 +1,8 @@
+{
+	"name": "message-stomp",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"stomp" : ">=0.1.1"
+	}
+}
