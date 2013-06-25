@@ -1,6 +1,7 @@
 {
 	"name": "message-stomp",
 	"version": "0.0.1",
+	"main": "./lib/message-stomp.js",
 	"private": true,
 	"dependencies": {
 		"stomp" : ">=0.1.1"
