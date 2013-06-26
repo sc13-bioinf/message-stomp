@@ -4,7 +4,8 @@
 	"main": "./lib/message-stomp.js",
 	"private": true,
 	"dependencies": {
-		"stomp" : ">=0.1.1"
+		"stomp" : ">=0.1.1",
+		"uuid": ">=1.4.1"
 	},
 	"repository": {
 		"type": "git",
